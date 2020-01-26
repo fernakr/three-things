@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Name TBD`,
+    title: `Three Things`,
     author: `MC Dev team`,
-    description: `MC Dev's inner workings`,
-    siteUrl: `https://mc-dev.netlify.com/`,
+    description: `Three things every week (e.g. idea, question, quote, TIL, recommendation)`,
+    siteUrl: `https://three-things.netlify.com/`,
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': `AuthorYaml`,

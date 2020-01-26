@@ -24,4 +24,4 @@
 
 1. **Ready to publish**
 
-    Push to the repo and Netlify will publish the content to https://mc-dev.netlify.com/
+    Push to the repo and Netlify will publish the content to https://three-things.netlify.com/
